@@ -145,5 +145,19 @@ By Tom Warren]]></description>
               <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-04-20-41-25.jpg"/>
       <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-04-20-41-25.wav</guid>
     </item>
+    
+            <item>
+      <title>Google makes it easier</title>
+      <description><![CDATA[Google makes it easier to let friends and kids control your smart home
+
+Google Home’s latest update will make it easier to decide who in your household can control your smart home. It comes with a new feature, which Google first started testing last year, that will let you assign people “Admin” and “Member” roles. People with Admin status have full control of all the devices, services, and users within their smart home, while Members can only use “basic” device controls, like watching the live view of a security camera. However, admins can grant Members additional privileges by giving them “Settings” access, allowing for control over device and home-wide settings. Admins can also turn on “Activity” access so Members can keep tabs on device history and recent events, such as a visitor picked up by a doorbell camera. Google is also simplifying the process of adding a child under 13 to the Home app. Once you set up your kid with a Google account through Family Link, you can invite them to your Google Home, which will add them as a Member by default. The previous process involved using either Family Link, Google Home, or Google Assistant settings to add your child’s voice to your smart home before inviting them to your home, and many users struggled to get it to work. It seems Google is now streamlining the process by letting you invite a child to your home through the Google Home app, so long as you add them to your Google family group. See More: Apps Google News Smart Home Tech
+
+By Emma Roth]]></description>
+      <pubDate>Fri, 04 Jul 2025 20:44:46 +1200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-04-20-44-46.wav" length="4361444" type="audio/x-wav"/>
+      <itunes:duration>90</itunes:duration>
+              <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-04-20-44-46.jpg"/>
+      <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-04-20-44-46.wav</guid>
+    </item>
     </channel>
 </rss>
