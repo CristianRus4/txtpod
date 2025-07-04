@@ -16,5 +16,15 @@
       <itunes:duration>3</itunes:duration>
       <guid>https://CristianRus4.github.io/txtpod/pods/2025-07-04-16-23-18.wav</guid>
     </item>
+        <item>
+      <title>I tried that but</title>
+      <description><![CDATA[I tried that but not enough for me, I really want something completely automatic without me having to go to the app. Just share and minutes later a new episode in my podcast player. 
+
+kinda like this prototype]]></description>
+      <pubDate>Fri, 04 Jul 2025 16:27:53 +1200</pubDate>
+      <enclosure url="https://CristianRus4.github.io/txtpod/pods/2025-07-04-16-27-53.wav" length="641444" type="audio/x-wav"/>
+      <itunes:duration>13</itunes:duration>
+      <guid>https://CristianRus4.github.io/txtpod/pods/2025-07-04-16-27-53.wav</guid>
+    </item>
     </channel>
 </rss>
