@@ -173,5 +173,29 @@ By Cameron Faulkner]]></description>
               <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-04-21-00-08.jpg"/>
       <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-04-21-00-08.wav</guid>
     </item>
+    
+            <item>
+      <title>E Ink is turning the laptop touchpad into an e-reader for AI apps</title>
+      <description><![CDATA[E Ink is turning the laptop touchpad into an e-reader for AI apps
+
+E Ink has developed a new touchpad for laptops featuring the same electronic paper technology found in e-readers. It’s not the first company to look at the ever-growing size of laptop touchpads and see the potential of additional functionality, but instead of serving as a second smaller screen for the computer’s OS, E Ink is positioning its touchpad as a dedicated home for AI applications and assistants.
+
+A mockup image shared by the company features a laptop with a touchpad upgraded with a color E Ink screen similar to what’s in use by devices like the Amazon Kindle Colorsoft. Instead of it being an extension of a laptop’s main screen, E Ink envisions its new touchpad as being a separate place where AI-generated text summaries could appear under your hands while working on a document, or you could maintain a constant conversation with an AI chatbot without having to juggle desktop windows.
+
+E Ink’s display technology only consumes power when it’s being updated. That’s a big benefit given the higher demands of AI tools on a laptop’s battery life.
+
+The idea is reminiscent of laptops that companies like Asus have already released featuring upgraded touchpads that double as secondary displays, but they typically feature smartphone-sized LCD screens that are often too small to effectively use applications designed for larger computer screens. A full color screen under your hands can also be a distraction and potentially reduce a laptop’s battery life. The use of E Ink screens has expanded outside e-readers to include colorful signage and digital notepads, but the technology is still best suited to displaying text.
+
+Similar to Apple’s now discontinued Touch Bar, E Ink also says the touchpad display could provide quick access to frequently used shortcuts, display notifications or the weather, or provide temporary playback controls without having to sacrifice a laptop keyboard’s row of function keys. It would also help reduce battery anxiety, because unlike LCD or OLED panels, E Ink’s display technology only consumes power when it’s being updated. That’s a big benefit given the higher demands of AI tools on a laptop’s battery life.
+
+What’s not currently known are more in-depth technical specifications. Aside from the touchpad potentially using color e-paper displays, E Ink hasn’t revealed if it will adapt one of its current panels, or if it’s developed an entirely new one with increased resolutions. Today’s announcement specifically references compatibility with Intel-based AI PCs, but E Ink didn’t go into details about whether the touchpad display would be powered by a laptop’s primary OS, or if it would feature its own. The company also didn’t provide a timeline for when these touchpads might start showing up in laptops or which hardware makers may be interested.
+
+By Andrew Liszewski]]></description>
+      <pubDate>Fri, 04 Jul 2025 21:09:41 +1200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-04-21-09-41.wav" length="8363444" type="audio/x-wav"/>
+      <itunes:duration>174</itunes:duration>
+              <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-04-21-09-41.jpg"/>
+      <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-04-21-09-41.wav</guid>
+    </item>
     </channel>
 </rss>
