@@ -16,5 +16,12 @@ You’re now officially on</title>
       <itunes:duration>20</itunes:duration>
       <guid>https://CristianRus4.github.io/txtpod/pods/2025-07-04-00-18-52.wav</guid>
     </item>
+        <item>
+      <title>Fans of this kind</title>
+      <pubDate>Fri, 04 Jul 2025 15:41:36 +1200</pubDate>
+      <enclosure url="https://CristianRus4.github.io/txtpod/pods/2025-07-04-15-41-36.wav" length="584250" type="audio/x-wav"/>
+      <itunes:duration>12</itunes:duration>
+      <guid>https://CristianRus4.github.io/txtpod/pods/2025-07-04-15-41-36.wav</guid>
+    </item>
     </channel>
 </rss>
