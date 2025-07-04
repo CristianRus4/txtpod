@@ -27,5 +27,14 @@ kinda like this prototype]]></description>
       <itunes:duration>13</itunes:duration>
       <guid>https://CristianRus4.github.io/txtpod/pods/2025-07-04-16-55-06.wav</guid>
     </item>
+    
+            <item>
+      <title>just testing sgain snother</title>
+      <description><![CDATA[just testing sgain snother option here with cover msybes]]></description>
+      <pubDate>Fri, 04 Jul 2025 17:07:50 +1200</pubDate>
+      <enclosure url="https://CristianRus4.github.io/txtpod/pods/2025-07-04-17-07-50.wav" length="189644" type="audio/x-wav"/>
+      <itunes:duration>3</itunes:duration>
+      <guid>https://CristianRus4.github.io/txtpod/pods/2025-07-04-17-07-50.wav</guid>
+    </item>
     </channel>
 </rss>
