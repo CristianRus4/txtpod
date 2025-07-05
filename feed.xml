@@ -361,5 +361,18 @@ By Richard Lawler]]></description>
               <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-05-15-01-58.jpg"/>
       <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-05-15-01-58.wav</guid>
     </item>
+    
+            <item>
+      <title>ℹ️ AUDIO_GENERATION_FAILURE: Failed to generate audio</title>
+      <description><![CDATA[ℹ️ AUDIO_GENERATION_FAILURE: Failed to generate audio
+
+ℹ️ AUDIO_GENERATION_FAILURE: Failed to generate audio for title: 'Meet Soham Parekh, the engineer burning through tech by working at three to four startups simultaneously'. Error: The request timed out.
+---------- ERROR ----------
+The request timed out.]]></description>
+      <pubDate>Sat, 05 Jul 2025 15:04:46 +1200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-05-15-04-46.wav" length="411450" type="audio/x-wav"/>
+      <itunes:duration>8</itunes:duration>
+      <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-05-15-04-46.wav</guid>
+    </item>
     </channel>
 </rss>
