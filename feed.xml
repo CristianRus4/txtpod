@@ -611,5 +611,43 @@ From Awe by Dacher Keltner. Reprinted by arrangement with Penguin Press, a membe
               <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-06-12-22-33.jpg"/>
       <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-12-22-33.wav</guid>
     </item>
+    
+            <item>
+      <title>Meet Soham Parekh, the engineer burning through tech by working at three to four startups simultaneously</title>
+      <description><![CDATA[Meet Soham Parekh, the engineer burning through tech by working at three to four startups simultaneously
+
+One name is popping up a lot across tech startup social media right now, and you might’ve heard it: Soham Parekh. On X, people are joking that Parekh is single-handedly holding up all modern digital infrastructure, while others are posting memes about him working in front of a dozen different monitors or filling in for the thousands of people that Microsoft just laid off.
+
+From what social media posts suggest, Parekh is actually a software engineer who seems to have interviewed at dozens of tech startups over the years, while also juggling multiple jobs at the same time. Several startups had this revelation on July 2nd, when Suhail Doshi, founder of the AI design tool Playground, posted a PSA on X, saying:
+
+PSA: there’s a guy named Soham Parekh (in India) who works at 3-4 startups at the same time. He’s been preying on YC companies and more. Beware.
+
+I fired this guy in his first week and told him to stop lying / scamming people. He hasn’t stopped a year later. No more excuses.
+
+Doshi’s post was quickly flooded with replies that included similar stories. “We interviewed this guy too, but caught this during references checks,” Variant founder Ben South said. “Turns out he had 5-6 profiles each with 5+ places he actually worked at.” When asked what tipped him off about Parekh, South told The Verge that his suspicions arose during Parekh’s interview, prompting his team to do a reference check earlier than they usually would. “That’s when we learned he was working multiple jobs,” South said.
+
+Parekh’s resume and pitch email look good at first glance, which helps him garner interest from multiple companies. “He had a prolific GitHub contribution graph and prior startup experience,” Marcus Lowe, founder of the AI app builder Create, told The Verge. “He was also extremely technically strong during our interview process.”
+
+Just one day after this all unfolded, Parekh came forward in an interview with the daily tech show TBPN. Parekh confirmed what many tech startup founders had suspected: he had been working for multiple companies at the same time. “I’m not proud of what I’ve done. That’s not something I endorse either. But no one really likes to work 140 hours a week, I had to do it out of necessity,” Parekh said. “I was in extremely dire financial circumstances.”
+
+Parekh seems to have made a good first impression on many people. Digger CEO Igor Zalutski said his company “nearly hired him,” as he “seemed so sharp” during interviews, while AIVideo.com cofounder Justin Harvey similarly said that he was “THIS close to hiring him,” adding that “he actually crushed the interview.” Vapi cofounder Jordan Dearsley said Parekh “was the best technical interview” he’s seen, but he “did not deliver on his projects.”
+
+The startups that did hire Parekh didn’t seem to keep him around for long. Lowe said that he noticed something was off when Parekh kept making excuses to push back his start date. After telling Lowe that he had to delay working because he had a trip planned to see his sister in New York, Parekh later claimed that he couldn’t start working following the trip because he was sick. “For whatever reason, something just felt off,” Lowe said.
+
+That’s when Lowe visited Parekh’s GitHub profile and realized he was committing code to a private repository during the time he was supposed to be sick. Lowe also found recent commits to another San Francisco-based startup. “Did some digging, noticed that he was in some of their marketing materials,” Lowe said. “I was like, ‘Huh, but he didn’t declare this on his resume. This feels weird.’” Create ended up letting Parekh go after he failed to complete an assignment.
+
+It looks like Parekh even had a stint at Meta. In 2021, the company published a post highlighting his story as a contributor working on mixed-reality experiences in WebXR. In the post, Parekh said that he found “that the best way to get better at software development is to not only practice it but to use it to solve real world problems.” Meta didn’t immediately respond to The Verge’s request for comment.
+
+Parekh’s purported scheme may have been uncovered, but his outlook might not be all bad. Parekh said he landed a job at Darwin, an AI video remixing startup, and the company’s founder confirmed it. “Soham is an incredibly talented engineer and we believe in his abilities to help bring our products to market,” Darwin founder and CEO Sanjit Juneja said in a statement to The Verge.
+
+Update, July 3rd: Added a statement from Darwin.
+
+By Emma Roth]]></description>
+      <pubDate>Sun, 06 Jul 2025 12:30:13 +1200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-12-30-13.wav" length="23338348" type="audio/x-wav"/>
+      <itunes:duration>264</itunes:duration>
+              <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-06-12-30-13.jpg"/>
+      <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-12-30-13.wav</guid>
+    </item>
     </channel>
 </rss>
