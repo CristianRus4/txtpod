@@ -667,5 +667,19 @@ By Umar Shakir]]></description>
               <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-06-13-10-38.jpg"/>
       <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-13-10-38.wav</guid>
     </item>
+    
+            <item>
+      <title>Netflix previews more anime and games that are coming soon.</title>
+      <description><![CDATA[Netflix previews more anime and games that are coming soon.
+
+
+
+By Richard Lawler]]></description>
+      <pubDate>Sun, 06 Jul 2025 13:39:26 +1200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-13-39-26.wav" length="383560" type="audio/x-wav"/>
+      <itunes:duration>4</itunes:duration>
+              <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-06-13-39-26.jpg"/>
+      <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-13-39-26.wav</guid>
+    </item>
     </channel>
 </rss>
