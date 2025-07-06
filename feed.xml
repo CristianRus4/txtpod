@@ -649,5 +649,23 @@ By Emma Roth]]></description>
               <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-06-12-30-13.jpg"/>
       <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-12-30-13.wav</guid>
     </item>
+    
+            <item>
+      <title>Apple will reportedly open up its local AI models to third-party apps</title>
+      <description><![CDATA[Apple will reportedly open up its local AI models to third-party apps
+
+Apple is planning to open up the large language models that power Apple Intelligence AI features so developers can use them in their own apps, reports Bloomberg. According to its sources, Apple will start by opening up its smaller on-device models via a software development kit for third-party access, similar to the Gemini Nano AI APIs that Google is expected to launch for developers during today’s Google I/O event, as reported by Android Authority.
+
+Third-party developers could already use limited features of Apple Intelligence, including integration of AI Writing Tools such as summaries and rewrites, or building the company’s Image Playground generator into their apps. The SDK isn’t expected to allow developers access to Apple’s models running in the cloud initially, and shouldn’t change much for AI apps that use their own models, like ChatGPT, Grok, or Anthropic.
+
+Apple reportedly plans to announce the new access to its foundation models during the Worldwide Developers Conference (WWDC) event scheduled to start on June 9th. According to Bloomberg reporter Mark Gurman, the plan is to make that one of the event’s highlights, along with the rumored “Solarium” overhaul for iOS, macOS, and iPadOS that would make them more unified and resemble the Vision Pro operating system.
+
+By Umar Shakir]]></description>
+      <pubDate>Sun, 06 Jul 2025 13:10:38 +1200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-13-10-38.wav" length="7224024" type="audio/x-wav"/>
+      <itunes:duration>81</itunes:duration>
+              <itunes:image href="https://raw.githubusercontent.com/CristianRus4/txtpod/main/artworks/2025-07-06-13-10-38.jpg"/>
+      <guid>https://raw.githubusercontent.com/CristianRus4/txtpod/main/pods/2025-07-06-13-10-38.wav</guid>
+    </item>
     </channel>
 </rss>
